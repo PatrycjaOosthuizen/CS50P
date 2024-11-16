@@ -1,0 +1,4 @@
+pytest
+re
+random
+pyfiglet
